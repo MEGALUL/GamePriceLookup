@@ -1,0 +1,16 @@
+D:\Bredy\university bs\IT\Windows net\Programs\GUI\bin\Debug\GUI.exe.config
+D:\Bredy\university bs\IT\Windows net\Programs\GUI\bin\Debug\GUI.exe
+D:\Bredy\university bs\IT\Windows net\Programs\GUI\bin\Debug\GUI.pdb
+D:\Bredy\university bs\IT\Windows net\Programs\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Bredy\university bs\IT\Windows net\Programs\GUI\obj\Debug\GUI.MainWindow.resources
+D:\Bredy\university bs\IT\Windows net\Programs\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Bredy\university bs\IT\Windows net\Programs\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Bredy\university bs\IT\Windows net\Programs\GUI\obj\Debug\GUI.exe
+D:\Bredy\university bs\IT\Windows net\Programs\GUI\obj\Debug\GUI.pdb
+D:\Bredy\university bs\IT\Windows net\Programs\GUI\bin\Debug\GamePriceLookup.dll
+D:\Bredy\university bs\IT\Windows net\Programs\GUI\bin\Debug\RestSharp.dll
+D:\Bredy\university bs\IT\Windows net\Programs\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\Bredy\university bs\IT\Windows net\Programs\GUI\bin\Debug\GamePriceLookup.pdb
+D:\Bredy\university bs\IT\Windows net\Programs\GUI\bin\Debug\RestSharp.xml
+D:\Bredy\university bs\IT\Windows net\Programs\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\Bredy\university bs\IT\Windows net\Programs\GUI\obj\Debug\GUI.csproj.CopyComplete

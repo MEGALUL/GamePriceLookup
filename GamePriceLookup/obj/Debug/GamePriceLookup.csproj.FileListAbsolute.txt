@@ -1,0 +1,9 @@
+D:\Bredy\university bs\IT\Windows net\Programs\GamePriceLookup\bin\Debug\GamePriceLookup.dll
+D:\Bredy\university bs\IT\Windows net\Programs\GamePriceLookup\bin\Debug\GamePriceLookup.pdb
+D:\Bredy\university bs\IT\Windows net\Programs\GamePriceLookup\bin\Debug\RestSharp.dll
+D:\Bredy\university bs\IT\Windows net\Programs\GamePriceLookup\bin\Debug\RestSharp.xml
+D:\Bredy\university bs\IT\Windows net\Programs\GamePriceLookup\obj\Debug\GamePriceLookup.csproj.CopyComplete
+D:\Bredy\university bs\IT\Windows net\Programs\GamePriceLookup\obj\Debug\GamePriceLookup.dll
+D:\Bredy\university bs\IT\Windows net\Programs\GamePriceLookup\obj\Debug\GamePriceLookup.pdb
+D:\Bredy\university bs\IT\Windows net\Programs\GamePriceLookup\bin\Debug\Newtonsoft.Json.dll
+D:\Bredy\university bs\IT\Windows net\Programs\GamePriceLookup\bin\Debug\Newtonsoft.Json.xml
